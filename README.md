@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fad000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Ribeiro;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -18,5 +18,5 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yurixribeiro&theme=shades-of-purple&hide_border=true&mode=weekly" />
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
 
